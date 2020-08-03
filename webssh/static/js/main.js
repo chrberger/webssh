@@ -332,7 +332,7 @@ jQuery(function($){
     }
 
     if (form_container.css('display') === 'none') {
-      form_container.show();
+      //form_container.show();
     }
   }
 
