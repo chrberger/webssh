@@ -832,7 +832,7 @@ jQuery(function($){
       connect(url_form_data);
     } else {
       restore_items(fields);
-      form_container.show();
+      //form_container.show();
     }
   }
 
