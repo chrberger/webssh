@@ -333,6 +333,7 @@ jQuery(function($){
 
     if (form_container.css('display') === 'none') {
       //form_container.show();
+      parent.postMessage("close_ssh", "*");
     }
   }
 
